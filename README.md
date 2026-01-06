@@ -3,7 +3,7 @@
 
 ## Recent Controversies
 
-This section documents recent controversies related to the project.
+This section documents controversies related to the project from the past 12 months.
 
 **What qualifies as a controversy:**
 - Significant disagreements about project direction or decisions
